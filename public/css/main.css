@@ -16,7 +16,6 @@ body {
   background-color: white;
   padding: 50px 10px 50px 10px;
   position: relative;
-  top: 50%;
   transform: translateY(-50%);
 }
 
